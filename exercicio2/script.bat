@@ -1,3 +1,3 @@
 javac *.java
-java -cp . ControleMain
+java -cp . ProgramaPrincipal
 pause
